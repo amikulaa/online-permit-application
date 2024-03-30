@@ -18,9 +18,9 @@ online-permit-application
 ```
  
 ## 🎬 Demo
-https://github.com/amikulaa/online-permit-application/assets/142363956/c1de3f78-5618-454e-a928-da061d186550
+https://github.com/amikulaa/online-permit-application/assets/142363956/799b946d-e0f3-48d9-8ead-651618ff06b5
 
-https://github.com/amikulaa/online-permit-application/assets/142363956/f788b900-5267-4782-9bd5-e23584907b3a
+https://github.com/amikulaa/online-permit-application/assets/142363956/8a29d8ba-79d1-4cba-b9f5-1c3a8bb098a9
 
 ## Features
 
